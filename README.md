@@ -1,6 +1,6 @@
 # Greenplum Sailfish
 
-![alt text width="10" height="10"](GreenSailfish.jpg)
+![alt text](GreenSailfish.jpg)
 
 The quickest way to fish for data....
 
