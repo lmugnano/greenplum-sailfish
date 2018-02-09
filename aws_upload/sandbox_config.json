@@ -1,7 +1,7 @@
 {
-"email_sender":"lmugnano@pivotal.io",
-"email_recipient":"lmugnano@pivotal.io",
+"email_sender":"",
+"email_recipient":"",
 "aws_region":"us-east-1",
-"gpdb_master_host":"35.171.175.69",
-"script":"source .bashrc; cd /home/gpadmin/s3Viewer; python s3Viewer.py -cfg s3Viewer_cfg"
+"gpdb_master_host":"",
+"script":"source .bashrc; cd /home/gpadmin/greenplum-sailfish; python greenplumSailfish.py -cfg greenplumSailfish_cfg"
 }
