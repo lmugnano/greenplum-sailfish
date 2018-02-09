@@ -1,6 +1,6 @@
 # Greenplum Sailfish
 
-![alt text](http://sailfish.ism-online.org/files/2010/06/sailfish__-__Green_on_White.jpg)
+![alt text](GreenSailfish.jpg)
 
 The quickest way to fish for data....
 
